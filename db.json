@@ -1,0 +1,225 @@
+{
+  "posts": [
+    {
+      "Name": "Sivakannan",
+      "RollNo": "67",
+      "Gender": "Male",
+      "Select": "Hosteler",
+      "MobileNo": "098675432",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-16",
+      "Attendences": true,
+      "id": 17
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": "45",
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": "08531910743",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-24",
+      "Attendences": true,
+      "id": 19
+    },
+    {
+      "Name": "Revanth",
+      "RollNo": "67",
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": "08531910740",
+      "Email": "revanth1402@gmail.com",
+      "Date": "2021-10-17",
+      "Attendences": true,
+      "id": 20
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": "567",
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": "08531910743",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-11-06",
+      "Attendences": true,
+      "id": 30
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": "98",
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": "08531910743",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-22",
+      "Attendences": true,
+      "id": 32
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": "78",
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": "08531910743",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-14",
+      "Attendences": true,
+      "id": 33
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": "67",
+      "Gender": "Male",
+      "Select": "Hosteler",
+      "MobileNo": "08531910743",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-12",
+      "Attendences": true,
+      "id": 34
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": "678889",
+      "Gender": "Male",
+      "Select": "Hosteler",
+      "MobileNo": "08531910743",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-29",
+      "Attendences": true,
+      "id": 35
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": "67",
+      "Gender": "Male",
+      "Select": "Hosteler",
+      "MobileNo": "08531910743",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-14",
+      "Attendences": true,
+      "id": 36
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": "567",
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": "08531910743",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-21",
+      "Attendences": true,
+      "id": 37
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": 78,
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": "08531910743",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-13",
+      "Attendences": true,
+      "id": 38
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": 83,
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": "08531910743",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-21",
+      "Attendences": true,
+      "id": 39
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": 78,
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": "08531910743",
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-23",
+      "Attendences": true,
+      "id": 40
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": 78,
+      "Gender": "Male",
+      "Select": "Hosteler",
+      "MobileNo": 8531910743,
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-06",
+      "Attendences": true,
+      "id": 41
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": 678,
+      "Gender": "Male",
+      "Select": "Hosteler",
+      "MobileNo": 8531910743,
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-27",
+      "Attendences": true,
+      "id": 42
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": 78,
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": 8531910743,
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-14",
+      "Attendences": true,
+      "id": 43
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": 78,
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": 8531910743,
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-21",
+      "Attendences": true,
+      "id": 44
+    },
+    {
+      "Name": "SIVAKANNAN M S",
+      "RollNo": 88867,
+      "Gender": "Male",
+      "Select": "Hosteler",
+      "MobileNo": 8531910743,
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-23",
+      "Attendences": true,
+      "id": 45
+    },
+    {
+      "Name": "finny",
+      "RollNo": 67,
+      "Gender": "Male",
+      "Select": "Day-Scholar",
+      "MobileNo": 8531910743,
+      "Email": "sivakannan1402@gmail.com",
+      "Date": "2021-10-09",
+      "Attendences": true,
+      "id": 46
+    }
+  ],
+  "comments": [
+    {}
+  ],
+  "profile": {
+    "id": 0,
+    "Name": "SIVAKANNAN M S",
+    "RollNo": "95",
+    "Gender": "Male",
+    "Select": "Dayscholar",
+    "MobileNo": "08531910743",
+    "Email": "sivakannan1402@gmail.com"
+  }
+}
