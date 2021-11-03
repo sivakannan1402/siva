@@ -1,0 +1,49 @@
+<h2 style="text-align: center;" *ngIf="isAddMode">PLEASE FILL IN THE DETAILS!!!</h2>
+<h2 style="text-align: center;" *ngIf="!isAddMode">CHANGE DETAILS TO BE EDITED</h2>
+
+<form class="example-form" [formGroup]="signupForm" (ngSubmit)="onSubmit()">
+    <mat-form-field class="example-full-width" appearance="fill" style="padding-left: 6px;">
+      <mat-label for="username">Enter User-Name:</mat-label>
+      <input matInput placeholder="Ex. John Doe" type="text"
+      id="username" formControlName="username">
+    </mat-form-field>
+    
+    <mat-form-field appearance="fill" style="padding-left: 6px;">
+      <mat-label for="email">Enter Your Email:</mat-label>
+      <input matInput type="text" id="email" placeholder="www.abc@gmail.com"
+      formControlName="email" required>
+    </mat-form-field>
+     <br>
+    <mat-radio-group style="padding-left: 6px;"
+     aria-label="Select a Gender:" formControlName="gender">
+      <mat-radio-button value="male">Male</mat-radio-button>
+      <mat-radio-button value="female">Female</mat-radio-button>      
+    </mat-radio-group>
+    <br><br>
+    <mat-form-field appearance="fill" style="padding-left: 6px;">
+      <mat-label for="age">Enter Your AGE:</mat-label>
+      <input matInput id="age" formControlName="age">
+    </mat-form-field>
+    <br>
+    <mat-form-field appearance="fill" style="padding-left: 6px;">
+      <mat-label>Select Your Nationality:</mat-label>
+      <mat-select formControlName="citizenship">
+        <mat-option value="Indian">Indian Citizen</mat-option>
+        <mat-option value="Non-Indian">Not an Indian Citizen</mat-option>
+      </mat-select>
+    </mat-form-field>
+    <br>
+    <div *ngIf="isAddMode">
+      <button mat-raised-button color="primary" type="submit" [disabled]="!signupForm.valid">ADD</button> |
+      <button mat-raised-button style="background-color: rgb(156, 154, 154)" type="reset">reset</button>
+    </div>
+    <div *ngIf="!isAddMode">
+      <button mat-raised-button color="primary" type="button" [disabled]="!signupForm.valid" (click)="edit()">Edit</button> |
+      <button mat-raised-button style="background-color: rgb(156, 154, 154)" type="reset">reset</button>
+    </div>
+</form>
+
+
+
+
+
