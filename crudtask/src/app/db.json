@@ -1,0 +1,52 @@
+{
+  "people": [
+    {
+      "username": "johnasd",
+      "email": "antan@abc.com",
+      "gender": "male",
+      "age": "33",
+      "citizenship": "Indian",
+      "id": 1
+    },
+    {
+      "username": "dhjasdhhda",
+      "email": "adwawd@adaw.com",
+      "gender": "female",
+      "age": "77",
+      "citizenship": "Non-Indian",
+      "id": 3
+    },
+    {
+      "username": "sivakannan",
+      "email": "siva@kannan.com",
+      "gender": "male",
+      "age": "22",
+      "citizenship": "Indian",
+      "id": 5
+    },
+    {
+      "username": "kingasd",
+      "email": "king@asd.com",
+      "gender": "male",
+      "age": "77",
+      "citizenship": "Indian",
+      "id": 7
+    },
+    {
+      "username": "jimmy",
+      "email": "butler@uuuu.com",
+      "gender": "male",
+      "age": "100",
+      "citizenship": "Non-Indian",
+      "id": 8
+    },
+    {
+      "username": "yoyooy",
+      "email": "yoyooy@adaw.com",
+      "gender": "female",
+      "age": "77",
+      "citizenship": "Non-Indian",
+      "id": 9
+    }
+  ]
+}
